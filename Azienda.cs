@@ -11,8 +11,16 @@ namespace _28092026
     {
         private string _ragionesociale;
         private Veicolo[] _flotta;
-        public string ragionesociale { get; set; }
-        public Veicolo[] flotta { get; set; }
+        public string ragionesociale
+        {
+            get { return _ragionesociale; }
+            set { _ragionesociale = value; }
+        }
+        public Veicolo[] flotta 
+        { 
+            get { return _flotta; }
+            set { _flotta = value; }
+        }
 
         public Azienda()
         {
