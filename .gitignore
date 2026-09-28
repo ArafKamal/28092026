@@ -1,0 +1,11 @@
+## .NET Core / Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+
+## Altri file di log o utente
+*.user
+*.suo
+project.lock.json
+project.fragment.lock.json
+artifacts/
