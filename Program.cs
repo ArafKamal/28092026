@@ -20,6 +20,17 @@
             // Console.WriteLine(veicolo5.ToString());
             Console.WriteLine(veicolo6.ToString());
             */
+
+            Azienda azienda1 = new Azienda();
+            Azienda azienda2 = new Azienda("ragione", []);
+            Azienda azienda3 = new Azienda("test", [veicolo1, veicolo2, veicolo6]);
+            // Azienda azienda4 = new Azienda("", []);
+
+            // test console azienda
+            Console.WriteLine(azienda1);
+            Console.WriteLine(azienda2);
+            Console.WriteLine(azienda3);
+            // Console.WriteLine(azienda4);
         }
     }
 }
