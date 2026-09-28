@@ -39,7 +39,7 @@ namespace _28092026
                 _targa = ta;
             }
 
-            if (ta.Length > 0)
+            if (mo.Length <= 0)
             {
                 throw new ArgumentException("Errore");
             }
@@ -48,19 +48,20 @@ namespace _28092026
                 _modello = mo;
             }
 
-            if (da.Length != 8 && (da != "")) // formato data
+            if (da != "" && da.Length != 8)
             {
                 throw new ArgumentException("Errore");
-            } 
+            }
             else if (da == "")
             {
                 _dataultimarevisione = "Mai effettuata";
-            } else
+            }
+            else
             {
                 _dataultimarevisione = da;
             }
 
-            if (ti != "Benzina" || ti != "Diesel" || ti != "Elettrica" || ti != "Ibrida")
+            if (ti != "Benzina" && ti != "Diesel" && ti != "Elettrica" && ti != "Ibrida")
             {
                 throw new ArgumentException("Errore");
             } 
