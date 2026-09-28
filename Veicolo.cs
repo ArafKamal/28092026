@@ -14,11 +14,35 @@ namespace _28092026
         private string _dataultimarevisione;
         private string _tipocarburante;
         private float _kilometraggio;
-        public string targa { get; set; }
-        public string modello { get; set; }
-        public string dataultimarevisione { get; set; }
-        public string tipocarburante { get; set; }
-        public float kilometraggio { get; set; }
+        public string targa
+        {
+            get { return _targa; }
+            set { _targa = value; }
+        }
+
+        public string modello
+        {
+            get { return _modello; }
+            set { _modello = value; }
+        }
+
+        public string dataultimarevisione
+        {
+            get { return _dataultimarevisione; }
+            set { _dataultimarevisione = value; }
+        }
+
+        public string tipocarburante
+        {
+            get { return _tipocarburante; }
+            set { _tipocarburante = value; }
+        }
+
+        public float kilometraggio
+        {
+            get { return _kilometraggio; }
+            set { _kilometraggio = value; }
+        }
         public Veicolo()
         {
             _targa = "00000000"; // targa base

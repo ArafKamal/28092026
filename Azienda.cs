@@ -36,7 +36,7 @@ namespace _28092026
             string risultato = "Ragione sociale: " + _ragionesociale + ", Veicoli: {";
             for (int i = 0; i < _flotta.Length; i++)
             {
-                risultato += "(" + _flotta[i].modello.ToString() + ", " + _flotta[i].targa.ToString() + ")";
+                risultato += "(" + _flotta[i].modello + ", " + _flotta[i].targa + ")";
             }
             return risultato + "}";
         }
