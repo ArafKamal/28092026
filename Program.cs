@@ -45,6 +45,7 @@ namespace _28092026
             // creare un oggetto Azienda con 3 veicoli di cui almeno uno senza revisione
             // stampare a video i dati di tutti i veicoli della flotta con le statistiche sui km
 
+            /*
             Console.WriteLine(azienda1.kilometraggioTotale());
             Console.WriteLine(azienda1.KilometraggioMedio());
 
@@ -53,7 +54,7 @@ namespace _28092026
 
             Console.WriteLine(azienda3.kilometraggioTotale());
             Console.WriteLine(azienda3.KilometraggioMedio());
-
+            */
         }
     }
 }
