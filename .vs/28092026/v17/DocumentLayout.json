@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\azienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:azienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\officina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:officina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|c:\\users\\kamal\\source\\repos\\catalogoesercizi-arafkamal\\28092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B59FCA-A2F4-4A56-A157-8D793E0D26F8}|28092026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Officina.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Officina.cs",
+              "RelativeDocumentMoniker": "Officina.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Officina.cs",
+              "RelativeToolTip": "Officina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:54:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prenotazione.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Prenotazione.cs",
+              "RelativeDocumentMoniker": "Prenotazione.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Prenotazione.cs",
+              "RelativeToolTip": "Prenotazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:54:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Dipendente.cs",
+              "RelativeDocumentMoniker": "Dipendente.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Dipendente.cs",
+              "RelativeToolTip": "Dipendente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:54:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Azienda.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Azienda.cs",
+              "RelativeDocumentMoniker": "Azienda.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Azienda.cs",
+              "RelativeToolTip": "Azienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:53:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Veicolo.cs",
+              "RelativeDocumentMoniker": "Veicolo.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Veicolo.cs",
+              "RelativeToolTip": "Veicolo.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:53:42.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\28092026\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T07:46:33.308Z",
               "EditorCaption": ""
