@@ -4,12 +4,22 @@
     {
         static void Main(string[] args)
         {
+            // Veicoli
+
             Veicolo veicolo1 = new Veicolo();
             Veicolo veicolo2 = new Veicolo("ABCDEFGH", "modello", "12345678", "Diesel", 10);
             // Veicolo veicolo3 = new Veicolo("ABCDEFG", "modello", "12345678", "Diesel", 0);
             // Veicolo veicolo4 = new Veicolo("ABCDEFGH", "modello", "1234567", "Diesel", 0);
             // Veicolo veicolo5 = new Veicolo("ABCDEFGH", "modello", "12345678", "", 0);
             Veicolo veicolo6 = new Veicolo("ABCDEFGH", "modello", "", "Diesel", 10);
+
+            // Aziende
+
+            Azienda azienda1 = new Azienda();
+            Azienda azienda2 = new Azienda("ragione", []);
+            Azienda azienda3 = new Azienda("test", [veicolo1, veicolo2, veicolo6]);
+            // Azienda azienda4 = new Azienda("", []);
+
 
             // test console veicoli
             /*
@@ -21,16 +31,13 @@
             Console.WriteLine(veicolo6.ToString());
             */
 
-            Azienda azienda1 = new Azienda();
-            Azienda azienda2 = new Azienda("ragione", []);
-            Azienda azienda3 = new Azienda("test", [veicolo1, veicolo2, veicolo6]);
-            // Azienda azienda4 = new Azienda("", []);
-
             // test console azienda
+            /*
             Console.WriteLine(azienda1);
             Console.WriteLine(azienda2);
             Console.WriteLine(azienda3);
             // Console.WriteLine(azienda4);
+            */
         }
     }
 }
